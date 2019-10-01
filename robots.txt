@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yeishukuos.roledrinks.de/sitemap.xml
